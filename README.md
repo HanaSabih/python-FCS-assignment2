@@ -52,4 +52,3 @@ Feel free to clone or fork this repository and use the functions and POS system 
 
 ---
 
-**Note:** The examples and descriptions provided here are for illustrative purposes. Be sure to adapt and integrate the code as needed for your specific use case.
